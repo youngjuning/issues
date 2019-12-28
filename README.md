@@ -1,0 +1,8 @@
+- JacksonTian/fks [![GitHub stars](https://img.shields.io/github/stars/JacksonTian/fks.svg?style=social&label=Stars)](https://github.com/JacksonTian/fks)：前端技能汇总 Frontend Knowledge Structure
+- warmheartli/FullStackDeveloperCourse [![GitHub stars](https://img.shields.io/github/stars/warmheartli/FullStackDeveloperCourse.svg?style=social&label=Stars)](https://github.com/warmheartli/FullStackDeveloperCourse)：教你成为全栈工程师
+- justjavac/free-programming-books-zh_CN [![GitHub stars](https://img.shields.io/github/stars/justjavac/free-programming-books-zh_CN.svg?style=social&label=Stars)](https://github.com/justjavac/free-programming-books-zh_CN)：📚 免费的计算机编程类中文书籍
+- SangKa/react-in-patterns-cn [![GitHub stars](https://img.shields.io/github/stars/SangKa/react-in-patterns-cn.svg?style=social&label=Stars)](https://github.com/SangKa/react-in-patterns-cn)：React in patterns 中文版
+- reactnativecn/react-native-guide [![GitHub stars](https://img.shields.io/github/stars/reactnativecn/react-native-guide.svg?style=social&label=Stars)](https://github.com/reactnativecn/react-native-guide)：React Native 指南汇集了各类 react-native 学习资源、开源 App 和组件
+- HcySunYang/vue-design [![GitHub stars](https://img.shields.io/github/stars/HcySunYang/vue-design.svg?style=social&label=Stars)](https://github.com/HcySunYang/vue-design)：📖 逐行级别的源码分析
+- [印记中文](https://docschina.org/)：号称唯一与官方文档同步的中文文档
+- [🥇 掘金翻译计划](https://github.com/xitu/gold-miner)：可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台
